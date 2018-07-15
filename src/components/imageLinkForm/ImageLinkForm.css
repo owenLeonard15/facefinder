@@ -1,0 +1,25 @@
+.form{
+    width: 700px;
+}
+
+input{
+    outline: none;
+}
+input:focus{
+    border: solid rgb(9, 224, 9) 1px;
+}
+button{
+    outline: 0;
+}
+
+button:hover{
+    border: solid rgb(9, 224, 9) 1px;
+}
+
+button:focus{
+    border: solid rgb(9, 224, 9) 1px;
+}
+
+button:active{
+    border: solid rgb(9, 224, 9) 1px;
+}
