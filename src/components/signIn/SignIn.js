@@ -73,6 +73,13 @@ class SignIn extends React.Component{
                                 Register
                             </p>
                         </div>
+                        <div className="lh-copy mt3">
+                            <p  
+                            className="f6 link dim white db pointer"
+                            onClick={() => onRouteChange('home')}>
+                                Try as a guest
+                            </p>
+                        </div>
                     </div>
                 </main>
             </article>
